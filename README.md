@@ -3,9 +3,6 @@
 ## Overview
 This project analyzes Amazon's fashion product sales data, focusing on categories, product performance, and sales distribution. The dataset includes a wide range of product information, sales data, seller details, and more, helping identify top-selling categories and products.
 
-Here's how you can include the Power BI dashboard link in the README under the "Dashboard" section:
-
----
 
 ## Dashboard
 The interactive **Amazon Sales Analysis Dashboard** provides a consolidated view of key sales metrics such as:
